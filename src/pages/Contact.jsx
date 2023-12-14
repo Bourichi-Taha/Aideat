@@ -36,7 +36,7 @@ const Contact = () => {
 
                 </div>
                 <div className="contact-banner">
-                    <Speciality button={false} title='Voor vragen staan wij graag voor jou klaar' />
+                    <Speciality desc=' ' button={false} title='Voor vragen staan wij graag voor jou klaar' />
                 </div>
             </div>
         </div>
