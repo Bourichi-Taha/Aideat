@@ -14,7 +14,7 @@ const Footer = () => {
                         <p style={{gap:"1rem"}}>
                             Jaarbeurs Innovation Mile (JIM)
                             <br />
-                            Jaarbeursplein 6, 3521 AL
+                            Amesterveen 6, 3521 AL
                             <br />
                             Utrecht, the Netherlands
                         </p>

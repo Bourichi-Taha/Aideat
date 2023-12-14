@@ -28,7 +28,7 @@ const Contact = () => {
             </div>
             <div className="contact-container-content-right">
                 <h4 className="contact-right-location">
-                Locatie<br/>AmsterdamHoogoorddreef<br/>56L 1101 BE<br/>Amsterdam
+                Locatie<br/>Tangier, Morocco<br/>56L 1101 BE<br/>Tangier
                 </h4>
                 <Button text={"Email@gmail.com"} Icon={EmailIcon} />
                 <Button text={"Maps"} Icon={LocationOnIcon} />
