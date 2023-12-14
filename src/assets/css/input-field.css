@@ -1,0 +1,18 @@
+.input-field-container{
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    color: var(--link-color);
+}
+.input-field-container-label{
+    font-size: 1rem;
+}
+.input-field-container-input{
+    height: 60px;
+    width: 100%;
+    outline: none;
+    border: 2px solid rgba(35, 31, 51,.4);
+    font-size: 1.25rem;
+    border-radius: .25rem;
+    padding:  0 .4rem;
+}
