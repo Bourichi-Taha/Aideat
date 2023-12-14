@@ -11,12 +11,14 @@ const Footer = () => {
                         <p className="footer-container-content-top-left-rights">© 2023 Aideat. All rights reserved.</p>
                     </div>
                     <div className="footer-container-content-top-right">
-                        <p style={{gap:"1rem"}}>
-                            Jaarbeurs Innovation Mile (JIM)
+                        <p style={{ gap: "1rem" }}>
+                            GloboPeople (GB)
                             <br />
-                            Amesterveen 6, 3521 AL
+                            Teststraat 1
                             <br />
-                            Utrecht, the Netherlands
+                            1000 AA  AMSTELVEEN,
+                            <br />
+                            the Netherlands
                         </p>
                     </div>
                 </div>
